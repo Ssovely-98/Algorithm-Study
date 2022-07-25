@@ -10,6 +10,7 @@ public class boj2564 {
 
 		int n= sc.nextInt(); //가로 j
 
+		int m= sc.nextInt(); //가로 j
 		int [][] map = new int[m+1][n+1]; //지도 정보
 
 		
