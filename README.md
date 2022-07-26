@@ -79,3 +79,6 @@ SSAFY 8기 대전 6반 5조
 
 ## 🔍 문제 목록
 
+|주차|날짜|문제||
+|------|---|---|---|
+|week1|22.07.25|[[BOJ 2564] 경비원](https://www.acmicpc.net/problem/2564)  | [[BOJ 1244] 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) |
