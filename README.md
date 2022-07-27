@@ -91,14 +91,20 @@ SSAFY 8기 대전 6반 5조
 		<tr>
 			<td>week1</td>
 			<td>22.07.21</td>
-			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmA4uK8ygDFAXj">[SWEA 4615] 재미있는 오셀로 게임</a></td>
-			<td><a href="http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=980&sca=99&sfl=wr_subject&stx=%EB%8B%AC%ED%8C%BD%EC%9D%B4">[JO 1707] 달팽이 사각형</a></td>
+			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmA4uK8ygDFAXj">[SWEA D3 4615] 재미있는 오셀로 게임</a></td>
+			<td><a href="http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=980&sca=99&sfl=wr_subject&stx=%EB%8B%AC%ED%8C%BD%EC%9D%B4">[JO BC 1707] 달팽이 사각형</a></td>
 		</tr>
 		<tr>
 			<td>week1</td>
 			<td>22.07.25</td>
-			<td><a href="https://www.acmicpc.net/problem/2564">[BOJ 2564] 경비원</a></td>
-			<td><a href="https://www.acmicpc.net/problem/1244">[BOJ 1244] 스위치 켜고 끄기</a></td>
+			<td><a href="https://www.acmicpc.net/problem/2564">[BOJ S1 2564] 경비원</a></td>
+			<td><a href="https://www.acmicpc.net/problem/1244">[BOJ S3 1244] 스위치 켜고 끄기</a></td>
+		</tr>
+		<tr>
+			<td>week1</td>
+			<td>22.07.27</td>
+			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LyE7KD2ADFAXc">[SWEA D3 1873] 상호의 배틀필드</a></td>
+			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm">[SWEA D4 5432] 쇠막대기 자르기</a></td>
 		</tr>
 	</tbody>
 </table>
