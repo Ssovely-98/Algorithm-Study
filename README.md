@@ -104,7 +104,7 @@ SSAFY 8기 대전 6반 5조
 			<td>week1</td>
 			<td>22.07.27</td>
 			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LyE7KD2ADFAXc">[SWEA D3 1873] 상호의 배틀필드</a></td>
-			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVl47b6DGMDFAXm">[SWEA D4 5432] 쇠막대기 자르기</a></td>
+			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWefy5x65PoDFAUh#none">[SWEA D3 6730] 장애물 경주 난이도</a></td>
 		</tr>
 	</tbody>
 </table>
