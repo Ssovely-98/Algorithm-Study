@@ -41,9 +41,7 @@ public class boj1244 {
 				for(int j=lf;j<=rt;j++) {
 					arr[j]=Math.abs(arr[j]-1);
 				}
-				
 			}
-			
 		}
 		
 		for(int i=1;i<n;i++) {
