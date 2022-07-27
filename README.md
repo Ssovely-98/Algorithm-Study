@@ -79,7 +79,26 @@ SSAFY 8기 대전 6반 5조
 
 ## 🔍 문제 목록
 
-|주차|날짜|문제||
-|------|---|---|---|
-|week1|22.07.21|[[SWEA 4615] 재미있는 오셀로 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmA4uK8ygDFAXj)  | [[JO 1707] 달팽이 사각형](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=980&sca=99&sfl=wr_subject&stx=%EB%8B%AC%ED%8C%BD%EC%9D%B4) |
-|week1|22.07.25|[[BOJ 2564] 경비원](https://www.acmicpc.net/problem/2564)  | [[BOJ 1244] 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244) |
+<table>
+	<thead>
+		<tr>
+			<th>주차</th>
+			<th>날짜</th>
+			<th colspan="2">문제</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>week1</td>
+			<td>22.07.21</td>
+			<td><a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWQmA4uK8ygDFAXj">[SWEA 4615] 재미있는 오셀로 게임</a></td>
+			<td><a href="http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=980&sca=99&sfl=wr_subject&stx=%EB%8B%AC%ED%8C%BD%EC%9D%B4">[JO 1707] 달팽이 사각형</a></td>
+		</tr>
+		<tr>
+			<td>week1</td>
+			<td>22.07.25</td>
+			<td><a href="https://www.acmicpc.net/problem/2564">[BOJ 2564] 경비원</a></td>
+			<td><a href="https://www.acmicpc.net/problem/1244">[BOJ 1244] 스위치 켜고 끄기</a></td>
+		</tr>
+	</tbody>
+</table>
