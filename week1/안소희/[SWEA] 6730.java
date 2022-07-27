@@ -28,7 +28,5 @@ public class swea6730 {
 			
 			System.out.println("#"+tc+" "+ up_diff+" "+down_diff);
 		}
-
 	}
-
 }
