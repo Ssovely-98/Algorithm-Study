@@ -4,6 +4,7 @@ import java.util.Collections;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
+
 public class SWEA4050 {
 	static int t,n;
 	public static void main(String[] args) throws NumberFormatException, IOException {
